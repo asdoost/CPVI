@@ -32,7 +32,5 @@ setup(
     packages=["CPVI"],
     package_data={'CPVI': ['data/*.json']},
     include_package_data=True,
-    install_requires=[
-                "pathlib", 
-                "itertools"]
+    install_requires=["pathlib"]
 )
