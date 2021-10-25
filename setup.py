@@ -11,11 +11,12 @@ with open(os.path.join(HERE, "README.md")) as fid:
 # This call to setup() does all the work
 setup(
     name="CPVI",
-    version="0.1.0",
+    version="v0.1.1-beta",
     description="Comprehensive Persian Verb Inflector",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/asdoost/CPVI",
+    download_url = "https://github.com/asdoost/CPVI/archive/refs/tags/v0.1.1-beta.tar.gz",
     author="Abbas Safardoost",
     author_email="a.safardoust@gmail.com",
     license="MIT",
@@ -31,5 +32,6 @@ setup(
     packages=["CPVI"],
     package_data={'CPVI': ['data/*.json']},
     include_package_data=True,
-    install_requires=["os", "re", "pathlib", "json", "itertools"]
+    install_requires=["pathlib"]
 )
+
