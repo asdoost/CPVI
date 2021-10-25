@@ -16,7 +16,7 @@ setup(
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/asdoost/CPVI",
-    download_url = "https://github.com/asdoost/CPVI/archive/refs/tags/v0.1.0-beta.tar.gz",
+    download_url = "https://github.com/asdoost/CPVI/archive/refs/tags/v0.1.1-beta.tar.gz",
     author="Abbas Safardoost",
     author_email="a.safardoust@gmail.com",
     license="MIT",
