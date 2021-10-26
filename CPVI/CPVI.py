@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
-from .inflection import inflector
-from .errors import custom_errors
+from inflection import inflector
+from errors import custom_errors
 from pathlib import Path
 import json
 import re
@@ -17,12 +16,12 @@ class CPVI():
     word : str
         a string in Persian alphabet used to return the Persian form of stems
     API_form : str, optional
-        a string in API alphabet used to return the API form of stems
+        a string in IPA alphabet used to return the IPA form of stems
     profile : dict of dicts
         a nested dictionary containing properties and inflected forms of 
         a given verb
     """
-    API = {'b': 'ب', 'p': 'پ', 'f': 'ف', 'v': 'و', 't': ['ت', 'ط'], 'd': 'د',
+    IPA = {'b': 'ب', 'p': 'پ', 'f': 'ف', 'v': 'و', 't': ['ت', 'ط'], 'd': 'د',
             's': ['س', 'ص', 'ث'], 'z': ['ز', 'ض', 'ظ', 'ذ'], 'ʃ': 'ش', 'ʒ': 'ژ',
             'ʤ': 'ج', 'ʧ': 'چ', 'c': 'ک', 'Ɉ': 'گ', 'x': 'خ', 'G': ['ق', 'غ'],
             'h': ['ه', 'ح'], 'ʔ': ['ع', 'همزه'], 'm': 'م', 'n': 'ن', 'r': 'ر',
@@ -41,7 +40,7 @@ class CPVI():
         word : str
             a string in Persian alphabet used to return the Persian form of stems
         API_form : str, optional
-            a string in API alphabet used to return the API form of stems
+            a string in IPA alphabet used to return the IPA form of stems
         
         Returns
         -------
@@ -64,10 +63,10 @@ class CPVI():
         fp_pres = 'formal Persian present stem'
         ip_past = 'informal Persian past stem'
         ip_pres = 'informal Persian present stem'
-        fa_past = 'formal API past stem'
-        fa_pres = 'formal API present stem'
-        ia_past = 'informal API past stem'
-        ia_pres = 'informal API present stem'
+        fa_past = 'formal IPA past stem'
+        fa_pres = 'formal IPA present stem'
+        ia_past = 'informal IPA past stem'
+        ia_pres = 'informal IPA present stem'
 
         # search through irregulars and return the word's profile
         for entry in data:
@@ -90,7 +89,7 @@ class CPVI():
         # make a profile frame
         profile = {key: '' for key in data['دانستن'].keys()}
 
-        # regex patterns for Persian and API alternative and 
+        # regex patterns for Persian and IPA alternative and 
         # regular forms, respectively
         pat = [re.compile(r'(\w{2,}ان)(ی)?(د)?(ن)?'),
                 re.compile(r'(.+)(ید)?(ن)?\b'),
@@ -130,12 +129,12 @@ class CPVI():
             profile[ip_pres] = profile[fp_pres]
             profile[ip_past] = profile[fp_past]
 
-        # Alternative API form
+        # Alternative IPA form
         if API_form == '':
             return inflector(profile, space)
 
         elif pat[2].search(API_form):
-            # API
+            # IPA
             profile[fa_pres] = pat[2].sub(r'\1', API_form)
             profile[fa_past] = [pat[2].sub(r'\1d', API_form),
                                 pat[2].sub(r'\1id', API_form)]
@@ -143,7 +142,7 @@ class CPVI():
             profile[ia_past] = [f'{profile[ia_pres]}d', 
                                 f'{profile[ia_pres]}id']
 
-        # Regular API form
+        # Regular IPA form
         elif pat[3].search(API_form):
             profile[fa_pres] = pat[3].sub(r'\1', API_form)
             # stems ended in vowels
@@ -162,4 +161,4 @@ if __name__ == '__main__':
     print(profile['paradigm']['formal']['Persian']['affirmative']['present']['progressive'])
     profile = p.profiling('گفت', 'Ɉoft', '\u200c')
     print(profile['paradigm']['formal']['Persian']['affirmative']['present']['progressive'])
-    #print(CPVI.API)
+    #print(CPVI.IPA)

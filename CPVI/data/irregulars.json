@@ -5,24 +5,24 @@
         "transitivity": "intransitive",
         "present dual": true,
         "past dual": false,
-        "formal API present stem": [
+        "formal IPA present stem": [
                         "æst",
                         "hæst",
                         "bɒʃ"
                       ],
-        "formal API past stem": "bud",
+        "formal IPA past stem": "bud",
         "formal Persian present stem": [
                       "است",
                       "هست",
                       "باش"
                     ],
         "formal Persian past stem": "بود",
-        "informal API present stem": [
+        "informal IPA present stem": [
                         "",
                         "hæst",
                         "bɒʃ"
                       ],
-        "informal API past stem": "bud",
+        "informal IPA past stem": "bud",
         "informal Persian present stem": [
                       "",
                       "هست",
@@ -221,7 +221,7 @@
                         }
                       }
                 },
-                "API": {
+                "IPA": {
                 "affirmative": {
                     "present": {
                         "simple": {
@@ -590,7 +590,7 @@
                         }
                       }
                 },
-                "API": {
+                "IPA": {
                 "affirmative": {
                     "present": {
                         "simple": {
@@ -773,17 +773,17 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʃæv",
-      "formal API past stem": "ʃod",
+      "formal IPA present stem": "ʃæv",
+      "formal IPA past stem": "ʃod",
       "formal Persian present stem": "شو",
       "formal Persian past stem": "شد",
-      "informal API present stem": "ʃ",
-      "informal API past stem": "ʃod",
+      "informal IPA present stem": "ʃ",
+      "informal IPA past stem": "ʃod",
       "informal Persian present stem": "ش",
       "informal Persian past stem": "شد",
       "paradigm": {
           "formal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -1225,7 +1225,7 @@
               }
           },
           "informal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -1844,12 +1844,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "con",
-      "formal API past stem": "cærd",
+      "formal IPA present stem": "con",
+      "formal IPA past stem": "cærd",
       "formal Persian present stem": "کُن",
       "formal Persian past stem": "کرد",
-      "informal API present stem": "con",
-      "informal API past stem": "cærd",
+      "informal IPA present stem": "con",
+      "informal IPA past stem": "cærd",
       "informal Persian present stem": "کُن",
       "informal Persian past stem": "کرد",
       "paradigm": ""
@@ -1860,17 +1860,17 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "dɒr",
-      "formal API past stem": "dɒʃt",
+      "formal IPA present stem": "dɒr",
+      "formal IPA past stem": "dɒʃt",
       "formal Persian present stem": "دار",
       "formal Persian past stem": "داشت",
-      "informal API present stem": "dɒr",
-      "informal API past stem": "dɒʃt",
+      "informal IPA present stem": "dɒr",
+      "informal IPA past stem": "dɒʃt",
       "informal Persian present stem": "دار",
       "informal Persian past stem": "داشت",
       "paradigm": {
           "formal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -2273,7 +2273,7 @@
               }
             },
           "informal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -2810,17 +2810,17 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟu",
-      "formal API past stem": "ɟoft",
+      "formal IPA present stem": "ɟu",
+      "formal IPA past stem": "ɟoft",
       "formal Persian present stem": "گو",
       "formal Persian past stem": "گفت",
-      "informal API present stem": "ɟ",
-      "informal API past stem": "ɟoft",
+      "informal IPA present stem": "ɟ",
+      "informal IPA past stem": "ɟoft",
       "informal Persian present stem": "گ",
       "informal Persian past stem": "گفت",
       "paradigm": {
           "formal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -3262,7 +3262,7 @@
               }
           },
           "informal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -3887,12 +3887,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "dæh",
-      "formal API past stem": "dɒd",
+      "formal IPA present stem": "dæh",
+      "formal IPA past stem": "dɒd",
       "formal Persian present stem": "ده",
       "formal Persian past stem": "داد",
-      "informal API present stem": "d",
-      "informal API past stem": "dɒd",
+      "informal IPA present stem": "d",
+      "informal IPA past stem": "dɒd",
       "informal Persian present stem": "د",
       "informal Persian past stem": "داد",
       "paradigm": ""
@@ -3903,17 +3903,17 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "xɒh",
-      "formal API past stem": "xɒst",
+      "formal IPA present stem": "xɒh",
+      "formal IPA past stem": "xɒst",
       "formal Persian present stem": "خواه",
       "formal Persian past stem": "خواست",
-      "informal API present stem": "xɒ",
-      "informal API past stem": "xɒst",
+      "informal IPA present stem": "xɒ",
+      "informal IPA past stem": "xɒst",
       "informal Persian present stem": "خوا",
       "informal Persian past stem": "خواست",
       "paradigm": {
           "formal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -4327,7 +4327,7 @@
               }
           },
           "informal": {
-              "API": {
+              "IPA": {
                   "affirmative": {
                       "present": {
                           "simple": {
@@ -4888,12 +4888,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "tævɒn",
-      "formal API past stem": "tævɒnest",
+      "formal IPA present stem": "tævɒn",
+      "formal IPA past stem": "tævɒnest",
       "formal Persian present stem": "توان",
       "formal Persian past stem": "توانست",
-      "informal API present stem": "tun",
-      "informal API past stem": "tunest",
+      "informal IPA present stem": "tun",
+      "informal IPA past stem": "tunest",
       "informal Persian present stem": "تون",
       "informal Persian past stem": "تونست",
       "paradigm": ""
@@ -4904,12 +4904,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟir",
-      "formal API past stem": "ɟereft",
+      "formal IPA present stem": "ɟir",
+      "formal IPA past stem": "ɟereft",
       "formal Persian present stem": "گیر",
       "formal Persian past stem": "گرفت",
-      "informal API present stem": "ɟir",
-      "informal API past stem": "ɟereft",
+      "informal IPA present stem": "ɟir",
+      "informal IPA past stem": "ɟereft",
       "informal Persian present stem": "گیر",
       "informal Persian past stem": "گرفت",
       "paradigm": ""
@@ -4920,12 +4920,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔɒ",
-      "formal API past stem": "ʔɒmæd",
+      "formal IPA present stem": "ʔɒ",
+      "formal IPA past stem": "ʔɒmæd",
       "formal Persian present stem": "آ",
       "formal Persian past stem": "آمد",
-      "informal API present stem": "ʔɒ",
-      "informal API past stem": "ʔumæd",
+      "informal IPA present stem": "ʔɒ",
+      "informal IPA past stem": "ʔumæd",
       "informal Persian present stem": "آ",
       "informal Persian past stem": "اومد",
       "paradigm": ""
@@ -4936,12 +4936,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ræv",
-      "formal API past stem": "ræft",
+      "formal IPA present stem": "ræv",
+      "formal IPA past stem": "ræft",
       "formal Persian present stem": "رَو",
       "formal Persian past stem": "رفت",
-      "informal API present stem": "r",
-      "informal API past stem": "ræft",
+      "informal IPA present stem": "r",
+      "informal IPA past stem": "ræft",
       "informal Persian present stem": "ر",
       "informal Persian past stem": "رفت",
       "paradigm": ""
@@ -4952,12 +4952,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "dɒn",
-      "formal API past stem": "dɒnest",
+      "formal IPA present stem": "dɒn",
+      "formal IPA past stem": "dɒnest",
       "formal Persian present stem": "دان",
       "formal Persian past stem": "دانست",
-      "informal API present stem": "dun",
-      "informal API past stem": "dunest",
+      "informal IPA present stem": "dun",
+      "informal IPA past stem": "dunest",
       "informal Persian present stem": "دون",
       "informal Persian past stem": "دونست",
       "paradigm": ""
@@ -4968,12 +4968,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔæfzɒ",
-      "formal API past stem": "ʔæfzud",
+      "formal IPA present stem": "ʔæfzɒ",
+      "formal IPA past stem": "ʔæfzud",
       "formal Persian present stem": "افزا",
       "formal Persian past stem": "افزود",
-      "informal API present stem": "ʔæfzɒ",
-      "informal API past stem": "ʔæfzud",
+      "informal IPA present stem": "ʔæfzɒ",
+      "informal IPA past stem": "ʔæfzud",
       "informal Persian present stem": "افزا",
       "informal Persian past stem": "افزود",
       "paradigm": ""
@@ -4984,8 +4984,8 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ɟærd",
-      "formal API past stem": [
+      "formal IPA present stem": "ɟærd",
+      "formal IPA past stem": [
                     "ɟæʃt",
                     "ɟærdid"
                   ],
@@ -4994,8 +4994,8 @@
                       "گشت",
                       "گردید"
                     ],
-      "informal API present stem": "ɟærd",
-      "informal API past stem": [
+      "informal IPA present stem": "ɟærd",
+      "informal IPA past stem": [
                     "ɟæʃt",
                     "ɟærdid"
                   ],
@@ -5012,12 +5012,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "sɒz",
-      "formal API past stem": "sɒxt",
+      "formal IPA present stem": "sɒz",
+      "formal IPA past stem": "sɒxt",
       "formal Persian present stem": "ساز",
       "formal Persian past stem": "ساخت",
-      "informal API present stem": "sɒz",
-      "informal API past stem": "sɒxt",
+      "informal IPA present stem": "sɒz",
+      "informal IPA past stem": "sɒxt",
       "informal Persian present stem": "ساز",
       "informal Persian past stem": "ساخت",
       "paradigm": ""
@@ -5028,12 +5028,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "bin",
-      "formal API past stem": "did",
+      "formal IPA present stem": "bin",
+      "formal IPA past stem": "did",
       "formal Persian present stem": "بین",
       "formal Persian past stem": "دید",
-      "informal API present stem": "bin",
-      "informal API past stem": "did",
+      "informal IPA present stem": "bin",
+      "informal IPA past stem": "did",
       "informal Persian present stem": "بین",
       "informal Persian past stem": "دید",
       "paradigm": ""
@@ -5044,12 +5044,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔɒvær",
-      "formal API past stem": "ʔɒværd",
+      "formal IPA present stem": "ʔɒvær",
+      "formal IPA past stem": "ʔɒværd",
       "formal Persian present stem": "آور",
       "formal Persian past stem": "آورد",
-      "informal API present stem": "ʔɒr",
-      "informal API past stem": "ʔɒvord",
+      "informal IPA present stem": "ʔɒr",
+      "informal IPA past stem": "ʔɒvord",
       "informal Persian present stem": "آر",
       "informal Persian past stem": "آورد",
       "paradigm": ""
@@ -5060,12 +5060,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "zæn",
-      "formal API past stem": "zæd",
+      "formal IPA present stem": "zæn",
+      "formal IPA past stem": "zæd",
       "formal Persian present stem": "زن",
       "formal Persian past stem": "زد",
-      "informal API present stem": "zæn",
-      "informal API past stem": "zæd",
+      "informal IPA present stem": "zæn",
+      "informal IPA past stem": "zæd",
       "informal Persian present stem": "زن",
       "informal Persian past stem": "زد",
       "paradigm": ""
@@ -5076,12 +5076,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "jɒb",
-      "formal API past stem": "jɒft",
+      "formal IPA present stem": "jɒb",
+      "formal IPA past stem": "jɒft",
       "formal Persian present stem": "یاب",
       "formal Persian past stem": "یافت",
-      "informal API present stem": "jɒb",
-      "informal API past stem": "jɒft",
+      "informal IPA present stem": "jɒb",
+      "informal IPA past stem": "jɒft",
       "informal Persian present stem": "یاب",
       "informal Persian past stem": "یافت",
       "paradigm": ""
@@ -5092,12 +5092,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "pærdɒz",
-      "formal API past stem": "pærdɒxt",
+      "formal IPA present stem": "pærdɒz",
+      "formal IPA past stem": "pærdɒxt",
       "formal Persian present stem": "پرداز",
       "formal Persian past stem": "پرداخت",
-      "informal API present stem": "pærdɒz",
-      "informal API past stem": "pærdɒxt",
+      "informal IPA present stem": "pærdɒz",
+      "informal IPA past stem": "pærdɒxt",
       "informal Persian present stem": "پرداز",
       "informal Persian past stem": "پرداخت",
       "paradigm": ""
@@ -5108,12 +5108,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟozɒr",
-      "formal API past stem": "ɟozɒʃt",
+      "formal IPA present stem": "ɟozɒr",
+      "formal IPA past stem": "ɟozɒʃt",
       "formal Persian present stem": "گذار",
       "formal Persian past stem": "گذاشت",
-      "informal API present stem": "zɒr",
-      "informal API past stem": "zɒʃt",
+      "informal IPA present stem": "zɒr",
+      "informal IPA past stem": "zɒʃt",
       "informal Persian present stem": "ذار",
       "informal Persian past stem": "ذاشت",
       "paradigm": ""
@@ -5124,12 +5124,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "pæʒmor",
-      "formal API past stem": "pæʒmord",
+      "formal IPA present stem": "pæʒmor",
+      "formal IPA past stem": "pæʒmord",
       "formal Persian present stem": "پژمر",
       "formal Persian past stem": "پژمرد",
-      "informal API present stem": "pæʒmor",
-      "informal API past stem": "pæʒmord",
+      "informal IPA present stem": "pæʒmor",
+      "informal IPA past stem": "pæʒmord",
       "informal Persian present stem": "پژمر",
       "informal Persian past stem": "پژمرد",
       "paradigm": ""
@@ -5140,12 +5140,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "næmɒ",
-      "formal API past stem": "nemud",
+      "formal IPA present stem": "næmɒ",
+      "formal IPA past stem": "nemud",
       "formal Persian present stem": "نما",
       "formal Persian past stem": "نمود",
-      "informal API present stem": "næmɒ",
-      "informal API past stem": "nemud",
+      "informal IPA present stem": "næmɒ",
+      "informal IPA past stem": "nemud",
       "informal Persian present stem": "نما",
       "informal Persian past stem": "نمود",
       "paradigm": ""
@@ -5156,12 +5156,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "nevis",
-      "formal API past stem": "neveʃt",
+      "formal IPA present stem": "nevis",
+      "formal IPA past stem": "neveʃt",
       "formal Persian present stem": "نویس",
       "formal Persian past stem": "نوشت",
-      "informal API present stem": "nevis",
-      "informal API past stem": "neveʃt",
+      "informal IPA present stem": "nevis",
+      "informal IPA past stem": "neveʃt",
       "informal Persian present stem": "نویس",
       "informal Persian past stem": "نوشت",
       "paradigm": ""
@@ -5172,12 +5172,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "neʃin",
-      "formal API past stem": "neʃæst",
+      "formal IPA present stem": "neʃin",
+      "formal IPA past stem": "neʃæst",
       "formal Persian present stem": "نشین",
       "formal Persian past stem": "نشست",
-      "informal API present stem": "ʃin",
-      "informal API past stem": "neʃest",
+      "informal IPA present stem": "ʃin",
+      "informal IPA past stem": "neʃest",
       "informal Persian present stem": "شین",
       "informal Persian past stem": "نشست",
       "paradigm": ""
@@ -5188,12 +5188,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "coʃ",
-      "formal API past stem": "coʃt",
+      "formal IPA present stem": "coʃ",
+      "formal IPA past stem": "coʃt",
       "formal Persian present stem": "کش",
       "formal Persian past stem": "کشت",
-      "informal API present stem": "coʃ",
-      "informal API past stem": "coʃt",
+      "informal IPA present stem": "coʃ",
+      "informal IPA past stem": "coʃt",
       "informal Persian present stem": "کش",
       "informal Persian past stem": "کشت",
       "paradigm": ""
@@ -5204,8 +5204,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "mɒn",
-      "formal API past stem": [
+      "formal IPA present stem": "mɒn",
+      "formal IPA past stem": [
                       "mɒnd",
                       "mɒnest"
                     ],
@@ -5214,8 +5214,8 @@
                 "ماند",
                 "مانست"
               ],
-      "informal API present stem": "mun",
-      "informal API past stem": [
+      "informal IPA present stem": "mun",
+      "informal IPA past stem": [
                       "mund",
                       "munest"
                     ],
@@ -5232,12 +5232,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʃecæn",
-      "formal API past stem": "ʃecæst",
+      "formal IPA present stem": "ʃecæn",
+      "formal IPA past stem": "ʃecæst",
       "formal Persian present stem": "شکن",
       "formal Persian past stem": "شکست",
-      "informal API present stem": "ʃecæn",
-      "informal API past stem": "ʃecæst",
+      "informal IPA present stem": "ʃecæn",
+      "informal IPA past stem": "ʃecæst",
       "informal Persian present stem": "شکن",
       "informal Persian past stem": "شکست",
       "paradigm": ""
@@ -5248,12 +5248,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "xɒn",
-      "formal API past stem": "xɒnd",
+      "formal IPA present stem": "xɒn",
+      "formal IPA past stem": "xɒnd",
       "formal Persian present stem": "خوان",
       "formal Persian past stem": "خواند",
-      "informal API present stem": "xun",
-      "informal API past stem": "xund",
+      "informal IPA present stem": "xun",
+      "informal IPA past stem": "xund",
       "informal Persian present stem": "خون",
       "informal Persian past stem": "خوند",
       "paradigm": ""
@@ -5264,12 +5264,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "næh",
-      "formal API past stem": "næhɒd",
+      "formal IPA present stem": "næh",
+      "formal IPA past stem": "næhɒd",
       "formal Persian present stem": "نه",
       "formal Persian past stem": "نهاد",
-      "informal API present stem": "næh",
-      "informal API past stem": "næhɒd",
+      "informal IPA present stem": "næh",
+      "informal IPA past stem": "næhɒd",
       "informal Persian present stem": "نه",
       "informal Persian past stem": "نهاد",
       "paradigm": ""
@@ -5280,12 +5280,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟozær",
-      "formal API past stem": "ɟozæʃt",
+      "formal IPA present stem": "ɟozær",
+      "formal IPA past stem": "ɟozæʃt",
       "formal Persian present stem": "گذر",
       "formal Persian past stem": "گذشت",
-      "informal API present stem": "ɟozær",
-      "informal API past stem": "ɟozæʃt",
+      "informal IPA present stem": "ɟozær",
+      "informal IPA past stem": "ɟozæʃt",
       "informal Persian present stem": "گذر",
       "informal Persian past stem": "گذشت",
       "paradigm": ""
@@ -5296,12 +5296,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʃenɒs",
-      "formal API past stem": "ʃenɒxt",
+      "formal IPA present stem": "ʃenɒs",
+      "formal IPA past stem": "ʃenɒxt",
       "formal Persian present stem": "شناس",
       "formal Persian past stem": "شناخت",
-      "informal API present stem": "ʃenɒs",
-      "informal API past stem": "ʃenɒxt",
+      "informal IPA present stem": "ʃenɒs",
+      "informal IPA past stem": "ʃenɒxt",
       "informal Persian present stem": "شناس",
       "informal Persian past stem": "شناخت",
       "paradigm": ""
@@ -5312,12 +5312,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "xor",
-      "formal API past stem": "xord",
+      "formal IPA present stem": "xor",
+      "formal IPA past stem": "xord",
       "formal Persian present stem": "خور",
       "formal Persian past stem": "خورد",
-      "informal API present stem": "xor",
-      "informal API past stem": "xord",
+      "informal IPA present stem": "xor",
+      "informal IPA past stem": "xord",
       "informal Persian present stem": "خور",
       "informal Persian past stem": "خورد",
       "paradigm": ""
@@ -5328,12 +5328,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔændɒz",
-      "formal API past stem": "ʔændɒxt",
+      "formal IPA present stem": "ʔændɒz",
+      "formal IPA past stem": "ʔændɒxt",
       "formal Persian present stem": "انداز",
       "formal Persian past stem": "انداخت",
-      "informal API present stem": "ʔændɒz",
-      "informal API past stem": "ʔendɒxt",
+      "informal IPA present stem": "ʔændɒz",
+      "informal IPA past stem": "ʔendɒxt",
       "informal Persian present stem": "انداز",
       "informal Persian past stem": "انداخت",
       "paradigm": ""
@@ -5344,8 +5344,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʃenæv",
-      "formal API past stem": [
+      "formal IPA present stem": "ʃenæv",
+      "formal IPA past stem": [
                     "ʃenid",
                     "ʃenoft"
                   ],
@@ -5354,8 +5354,8 @@
                     "شنید",
                     "شنفت"
                   ],
-      "informal API present stem": "ʃenæv",
-      "informal API past stem": [
+      "informal IPA present stem": "ʃenæv",
+      "informal IPA past stem": [
                     "ʃenid",
                     "ʃenoft"
                   ],
@@ -5372,12 +5372,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "suz",
-      "formal API past stem": "suxt",
+      "formal IPA present stem": "suz",
+      "formal IPA past stem": "suxt",
       "formal Persian present stem": "سوز",
       "formal Persian past stem": "سوخت",
-      "informal API present stem": "suz",
-      "informal API past stem": "suxt",
+      "informal IPA present stem": "suz",
+      "informal IPA past stem": "suxt",
       "informal Persian present stem": "سوز",
       "informal Persian past stem": "سوخت",
       "paradigm": ""
@@ -5388,12 +5388,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "bɒf",
-      "formal API past stem": "bɒft",
+      "formal IPA present stem": "bɒf",
+      "formal IPA past stem": "bɒft",
       "formal Persian present stem": "باف",
       "formal Persian past stem": "بافت",
-      "informal API present stem": "bɒf",
-      "informal API past stem": "bɒft",
+      "informal IPA present stem": "bɒf",
+      "informal IPA past stem": "bɒft",
       "informal Persian present stem": "باف",
       "informal Persian past stem": "بافت",
       "paradigm": ""
@@ -5404,12 +5404,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "bænd",
-      "formal API past stem": "bæst",
+      "formal IPA present stem": "bænd",
+      "formal IPA past stem": "bæst",
       "formal Persian present stem": "بند",
       "formal Persian past stem": "بست",
-      "informal API present stem": "bænd",
-      "informal API past stem": "bæst",
+      "informal IPA present stem": "bænd",
+      "informal IPA past stem": "bæst",
       "informal Persian present stem": "بند",
       "informal Persian past stem": "بست",
       "paradigm": ""
@@ -5420,12 +5420,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "færmɒ",
-      "formal API past stem": "færmud",
+      "formal IPA present stem": "færmɒ",
+      "formal IPA past stem": "færmud",
       "formal Persian present stem": "فرما",
       "formal Persian past stem": "فرمود",
-      "informal API present stem": "færmɒ",
-      "informal API past stem": "færmud",
+      "informal IPA present stem": "færmɒ",
+      "informal IPA past stem": "færmud",
       "informal Persian present stem": "فرما",
       "informal Persian past stem": "فرمود",
       "paradigm": ""
@@ -5436,12 +5436,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔoft",
-      "formal API past stem": "ʔoftɒd",
+      "formal IPA present stem": "ʔoft",
+      "formal IPA past stem": "ʔoftɒd",
       "formal Persian present stem": "افت",
       "formal Persian past stem": "افتاد",
-      "informal API present stem": "ʔoft",
-      "informal API past stem": "ʔoftɒd",
+      "informal IPA present stem": "ʔoft",
+      "informal IPA past stem": "ʔoftɒd",
       "informal Persian present stem": "افت",
       "informal Persian past stem": "افتاد",
       "paradigm": ""
@@ -5452,12 +5452,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "bær",
-      "formal API past stem": "bord",
+      "formal IPA present stem": "bær",
+      "formal IPA past stem": "bord",
       "formal Persian present stem": "بر",
       "formal Persian past stem": "برد",
-      "informal API present stem": "bær",
-      "informal API past stem": "bord",
+      "informal IPA present stem": "bær",
+      "informal IPA past stem": "bord",
       "informal Persian present stem": "بر",
       "informal Persian past stem": "برد",
       "paradigm": ""
@@ -5468,12 +5468,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "pæzir",
-      "formal API past stem": "pæziroft",
+      "formal IPA present stem": "pæzir",
+      "formal IPA past stem": "pæziroft",
       "formal Persian present stem": "پذیر",
       "formal Persian past stem": "پذیرفت",
-      "informal API present stem": "pæzir",
-      "informal API past stem": "pæziroft",
+      "informal IPA present stem": "pæzir",
+      "informal IPA past stem": "pæziroft",
       "informal Persian present stem": "پذیر",
       "informal Persian past stem": "پذیرفت",
       "paradigm": ""
@@ -5484,12 +5484,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "zi",
-      "formal API past stem": "zist",
+      "formal IPA present stem": "zi",
+      "formal IPA past stem": "zist",
       "formal Persian present stem": "زی",
       "formal Persian past stem": "زیست",
-      "informal API present stem": "zi",
-      "informal API past stem": "zist",
+      "informal IPA present stem": "zi",
+      "informal IPA past stem": "zist",
       "informal Persian present stem": "زی",
       "informal Persian past stem": "زیست",
       "paradigm": ""
@@ -5500,12 +5500,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "riz",
-      "formal API past stem": "rixt",
+      "formal IPA present stem": "riz",
+      "formal IPA past stem": "rixt",
       "formal Persian present stem": "ریز",
       "formal Persian past stem": "ریخت",
-      "informal API present stem": "riz",
-      "informal API past stem": "rixt",
+      "informal IPA present stem": "riz",
+      "informal IPA past stem": "rixt",
       "informal Persian present stem": "ریز",
       "informal Persian past stem": "ریخت",
       "paradigm": ""
@@ -5516,12 +5516,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "nævɒz",
-      "formal API past stem": "nævɒxt",
+      "formal IPA present stem": "nævɒz",
+      "formal IPA past stem": "nævɒxt",
       "formal Persian present stem": "نواز",
       "formal Persian past stem": "نواخت",
-      "informal API present stem": "nævɒz",
-      "informal API past stem": "nævɒxt",
+      "informal IPA present stem": "nævɒz",
+      "informal IPA past stem": "nævɒxt",
       "informal Persian present stem": "نواز",
       "informal Persian past stem": "نواخت",
       "paradigm": ""
@@ -5532,12 +5532,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔist",
-      "formal API past stem": "ʔistɒd",
+      "formal IPA present stem": "ʔist",
+      "formal IPA past stem": "ʔistɒd",
       "formal Persian present stem": "ایست",
       "formal Persian past stem": "ایستاد",
-      "informal API present stem": "vɒjs",
-      "informal API past stem": "vɒjsɒd",
+      "informal IPA present stem": "vɒjs",
+      "informal IPA past stem": "vɒjsɒd",
       "informal Persian present stem": "وایس",
       "informal Persian past stem": "وایساد",
       "paradigm": {
@@ -5868,7 +5868,7 @@
                       }
                     }
               },
-              "API": {
+              "IPA": {
               "affirmative": {
                   "present": {
                       "simple": {
@@ -6463,7 +6463,7 @@
                       }
                     }
               },
-              "API": {
+              "IPA": {
               "affirmative": {
                   "present": {
                       "simple": {
@@ -6716,12 +6716,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ferest",
-      "formal API past stem": "ferestɒd",
+      "formal IPA present stem": "ferest",
+      "formal IPA past stem": "ferestɒd",
       "formal Persian present stem": "فرست",
       "formal Persian past stem": "فرستاد",
-      "informal API present stem": "ferest",
-      "informal API past stem": "ferestɒd",
+      "informal IPA present stem": "ferest",
+      "informal IPA past stem": "ferestɒd",
       "informal Persian present stem": "فرست",
       "informal Persian past stem": "فرستاد",
       "paradigm": ""
@@ -6732,12 +6732,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "pejvænd",
-      "formal API past stem": "pejvæst",
+      "formal IPA present stem": "pejvænd",
+      "formal IPA past stem": "pejvæst",
       "formal Persian present stem": "پیوند",
       "formal Persian past stem": "پیوست",
-      "informal API present stem": "pejvænd",
-      "informal API past stem": "pejvæst",
+      "informal IPA present stem": "pejvænd",
+      "informal IPA past stem": "pejvæst",
       "informal Persian present stem": "پیوند",
       "informal Persian past stem": "پیوست",
       "paradigm": ""
@@ -6748,11 +6748,11 @@
       "transitivity": "intransitive",
       "present dual": true,
       "past dual": true,
-      "formal API present stem": [
+      "formal IPA present stem": [
                     "sepor",
                     "sepɒr"
                   ],
-      "formal API past stem": [
+      "formal IPA past stem": [
                     "sepord",
                     "sepɒrd"
                   ],
@@ -6764,11 +6764,11 @@
                 "سپرد",
                 "سپارد"
               ],
-      "informal API present stem": [
+      "informal IPA present stem": [
                     "sepor",
                     "sepɒr"
                   ],
-      "informal API past stem": [
+      "informal IPA past stem": [
                     "sepord",
                     "sepɒrd"
                   ],
@@ -6788,12 +6788,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "neɟær",
-      "formal API past stem": "neɟærist",
+      "formal IPA present stem": "neɟær",
+      "formal IPA past stem": "neɟærist",
       "formal Persian present stem": "نگر",
       "formal Persian past stem": "نگریست",
-      "informal API present stem": "neɟær",
-      "informal API past stem": "neɟærist",
+      "informal IPA present stem": "neɟær",
+      "informal IPA past stem": "neɟærist",
       "informal Persian present stem": "نگر",
       "informal Persian past stem": "نگریست",
       "paradigm": ""
@@ -6804,12 +6804,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔɒmuz",
-      "formal API past stem": "ʔɒmuxt",
+      "formal IPA present stem": "ʔɒmuz",
+      "formal IPA past stem": "ʔɒmuxt",
       "formal Persian present stem": "آموز",
       "formal Persian past stem": "آموخت",
-      "informal API present stem": "ʔɒmuz",
-      "informal API past stem": "ʔɒmuxt",
+      "informal IPA present stem": "ʔɒmuz",
+      "informal IPA past stem": "ʔɒmuxt",
       "informal Persian present stem": "آموز",
       "informal Persian past stem": "آموخت",
       "paradigm": ""
@@ -6820,8 +6820,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ɟoʃɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "ɟoʃɒ",
+      "formal IPA past stem": [
                       "ɟoʃud",
                       "ɟoʃɒʔid",
                       "ɟoʃɒd"],
@@ -6831,8 +6831,8 @@
                       "گشائید",
                       "گشاد"
                     ],
-      "informal API present stem": "ɟoʃɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "ɟoʃɒ",
+      "informal IPA past stem": [
                       "ɟoʃud",
                       "ɟoʃɒʔid",
                       "ɟoʃɒd"],
@@ -6850,12 +6850,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "bɒz",
-      "formal API past stem": "bɒxt",
+      "formal IPA present stem": "bɒz",
+      "formal IPA past stem": "bɒxt",
       "formal Persian present stem": "باز",
       "formal Persian past stem": "باخت",
-      "informal API present stem": "bɒz",
-      "informal API past stem": "bɒxt",
+      "informal IPA present stem": "bɒz",
+      "informal IPA past stem": "bɒxt",
       "informal Persian present stem": "باز",
       "informal Persian past stem": "باخت",
       "paradigm": ""
@@ -6866,11 +6866,11 @@
       "transitivity": "intransitive",
       "present dual": true,
       "past dual": true,
-      "formal API present stem": [
+      "formal IPA present stem": [
                       "ʃomor",
                       "ʃomɒr"
                     ],
-      "formal API past stem": [
+      "formal IPA past stem": [
                       "ʃomord",
                       "ʃomɒrd"
                     ],
@@ -6882,11 +6882,11 @@
                 "شمرد",
                 "شمارد"
               ],
-      "informal API present stem": [
+      "informal IPA present stem": [
                       "ʃemor",
                       "ʃemɒr"
                     ],
-      "informal API past stem": [
+      "informal IPA past stem": [
                       "ʃemord",
                       "ʃemɒrd"
                     ],
@@ -6906,11 +6906,11 @@
       "transitivity": "intransitive",
       "present dual": true,
       "past dual": true,
-      "formal API present stem": [
+      "formal IPA present stem": [
                       "feʃor",
                       "feʃɒr"
                     ],
-      "formal API past stem": [
+      "formal IPA past stem": [
                       "feʃord",
                       "feʃɒrd"
                     ],
@@ -6922,11 +6922,11 @@
                 "فشرد",
                 "فشارد"
               ],
-      "informal API present stem": [
+      "informal IPA present stem": [
                       "feʃor",
                       "feʃɒr"
                     ],
-      "informal API past stem": [
+      "informal IPA past stem": [
                       "feʃord",
                       "feʃɒrd"
                     ],
@@ -6946,12 +6946,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟoriz",
-      "formal API past stem": "ɟorixt",
+      "formal IPA present stem": "ɟoriz",
+      "formal IPA past stem": "ɟorixt",
       "formal Persian present stem": "گریز",
       "formal Persian past stem": "گریخت",
-      "informal API present stem": "ɟoriz",
-      "informal API past stem": "ɟorixt",
+      "informal IPA present stem": "ɟoriz",
+      "informal IPA past stem": "ɟorixt",
       "informal Persian present stem": "گریز",
       "informal Persian past stem": "گریخت",
       "paradigm": ""
@@ -6962,12 +6962,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "mir",
-      "formal API past stem": "mord",
+      "formal IPA present stem": "mir",
+      "formal IPA past stem": "mord",
       "formal Persian present stem": "میر",
       "formal Persian past stem": "مرد",
-      "informal API present stem": "mir",
-      "informal API past stem": "mord",
+      "informal IPA present stem": "mir",
+      "informal IPA past stem": "mord",
       "informal Persian present stem": "میر",
       "informal Persian past stem": "مرد",
       "paradigm": ""
@@ -6978,12 +6978,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "duz",
-      "formal API past stem": "duxt",
+      "formal IPA present stem": "duz",
+      "formal IPA past stem": "duxt",
       "formal Persian present stem": "دوز",
       "formal Persian past stem": "دوخت",
-      "informal API present stem": "duz",
-      "informal API past stem": "duxt",
+      "informal IPA present stem": "duz",
+      "informal IPA past stem": "duxt",
       "informal Persian present stem": "دوز",
       "informal Persian past stem": "دوخت",
       "paradigm": ""
@@ -6994,12 +6994,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔɒfærin",
-      "formal API past stem": "ʔɒfærid",
+      "formal IPA present stem": "ʔɒfærin",
+      "formal IPA past stem": "ʔɒfærid",
       "formal Persian present stem": "آفرین",
       "formal Persian past stem": "آفرید",
-      "informal API present stem": "ʔɒfærin",
-      "informal API past stem": "ʔɒfærid",
+      "informal IPA present stem": "ʔɒfærin",
+      "informal IPA past stem": "ʔɒfærid",
       "informal Persian present stem": "آفرین",
       "informal Persian past stem": "آفرید",
       "paradigm": ""
@@ -7010,12 +7010,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "cɒr",
-      "formal API past stem": "cɒʃt",
+      "formal IPA present stem": "cɒr",
+      "formal IPA past stem": "cɒʃt",
       "formal Persian present stem": "کار",
       "formal Persian past stem": "کاشت",
-      "informal API present stem": "cɒr",
-      "informal API past stem": "cɒʃt",
+      "informal IPA present stem": "cɒr",
+      "informal IPA past stem": "cɒʃt",
       "informal Persian present stem": "کار",
       "informal Persian past stem": "کاشت",
       "paradigm": ""
@@ -7026,8 +7026,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "sorɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "sorɒ",
+      "formal IPA past stem": [
                       "sorud",
                       "sorɒʔid"
                     ],
@@ -7036,8 +7036,8 @@
                 "سرود",
                 "سرایید"
               ],
-      "informal API present stem": "sorɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "sorɒ",
+      "informal IPA past stem": [
                       "surud",
                       "sorɒʔid"
                     ],
@@ -7054,11 +7054,11 @@
       "transitivity": "intransitive",
       "present dual": true,
       "past dual": true,
-      "formal API present stem": [
+      "formal IPA present stem": [
                       "ʔæfcæn",
                       "fecæn"
                     ],
-      "formal API past stem": [
+      "formal IPA past stem": [
                       "ʔæfcænd",
                       "fecænd"
                     ],
@@ -7070,11 +7070,11 @@
                 "افکند",
                 "فکند"
               ],
-      "informal API present stem": [
+      "informal IPA present stem": [
                       "ʔæfcæn",
                       "fecæn"
                     ],
-      "informal API past stem": [
+      "informal IPA past stem": [
                       "ʔæfcænd",
                       "fecænd"
                     ],
@@ -7094,12 +7094,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "foruʃ",
-      "formal API past stem": "foruxt",
+      "formal IPA present stem": "foruʃ",
+      "formal IPA past stem": "foruxt",
       "formal Persian present stem": "فروش",
       "formal Persian past stem": "فروخت",
-      "informal API present stem": "foruʃ",
-      "informal API past stem": "foruxt",
+      "informal IPA present stem": "foruʃ",
+      "informal IPA past stem": "foruxt",
       "informal Persian present stem": "فروش",
       "informal Persian past stem": "فروخت",
       "paradigm": ""
@@ -7110,12 +7110,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "rɒn",
-      "formal API past stem": "rɒnd",
+      "formal IPA present stem": "rɒn",
+      "formal IPA past stem": "rɒnd",
       "formal Persian present stem": "ران",
       "formal Persian past stem": "راند",
-      "informal API present stem": "rɒn",
-      "informal API past stem": "rɒnd",
+      "informal IPA present stem": "rɒn",
+      "informal IPA past stem": "rɒnd",
       "informal Persian present stem": "ران",
       "informal Persian past stem": "راند",
       "paradigm": ""
@@ -7126,12 +7126,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "pæz",
-      "formal API past stem": "poxt",
+      "formal IPA present stem": "pæz",
+      "formal IPA past stem": "poxt",
       "formal Persian present stem": "پز",
       "formal Persian past stem": "پخت",
-      "informal API present stem": "pæz",
-      "informal API past stem": "poxt",
+      "informal IPA present stem": "pæz",
+      "informal IPA past stem": "poxt",
       "informal Persian present stem": "پز",
       "informal Persian past stem": "پخت",
       "paradigm": ""
@@ -7142,12 +7142,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "xiz",
-      "formal API past stem": "xɒst",
+      "formal IPA present stem": "xiz",
+      "formal IPA past stem": "xɒst",
       "formal Persian present stem": "خیز",
       "formal Persian past stem": "خاست",
-      "informal API present stem": "xiz",
-      "informal API past stem": "xɒst",
+      "informal IPA present stem": "xiz",
+      "informal IPA past stem": "xɒst",
       "informal Persian present stem": "خیز",
       "informal Persian past stem": "خاست",
       "paradigm": ""
@@ -7158,8 +7158,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ɟomɒr",
-      "formal API past stem": [
+      "formal IPA present stem": "ɟomɒr",
+      "formal IPA past stem": [
                       "ɟomɒʃt",
                       "ɟomɒrd"
                     ],
@@ -7168,8 +7168,8 @@
                 "گماشت",
                 "گمارد"
               ],
-      "informal API present stem": "ɟomɒr",
-      "informal API past stem": [
+      "informal IPA present stem": "ɟomɒr",
+      "informal IPA past stem": [
                       "ɟomɒʃt",
                       "ɟomɒrd"
                     ],
@@ -7186,12 +7186,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʧin",
-      "formal API past stem": "ʧid",
+      "formal IPA present stem": "ʧin",
+      "formal IPA past stem": "ʧid",
       "formal Persian present stem": "چین",
       "formal Persian past stem": "چید",
-      "informal API present stem": "ʧin",
-      "informal API past stem": "ʧid",
+      "informal IPA present stem": "ʧin",
+      "informal IPA past stem": "ʧid",
       "informal Persian present stem": "چین",
       "informal Persian past stem": "چید",
       "paradigm": ""
@@ -7202,12 +7202,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔɒmiz",
-      "formal API past stem": "ʔɒmixt",
+      "formal IPA present stem": "ʔɒmiz",
+      "formal IPA past stem": "ʔɒmixt",
       "formal Persian present stem": "آمیز",
       "formal Persian past stem": "آمیخت",
-      "informal API present stem": "ʔɒmiz",
-      "informal API past stem": "ʔɒmixt",
+      "informal IPA present stem": "ʔɒmiz",
+      "informal IPA past stem": "ʔɒmixt",
       "informal Persian present stem": "آمیز",
       "informal Persian past stem": "آمیخت",
       "paradigm": ""
@@ -7218,12 +7218,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʃecɒf",
-      "formal API past stem": "ʃecɒft",
+      "formal IPA present stem": "ʃecɒf",
+      "formal IPA past stem": "ʃecɒft",
       "formal Persian present stem": "شکاف",
       "formal Persian past stem": "شکافت",
-      "informal API present stem": "ʃecɒf",
-      "informal API past stem": "ʃecɒft",
+      "informal IPA present stem": "ʃecɒf",
+      "informal IPA past stem": "ʃecɒft",
       "informal Persian present stem": "شکاف",
       "informal Persian past stem": "شکافت",
       "paradigm": ""
@@ -7234,8 +7234,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "robɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "robɒ",
+      "formal IPA past stem": [
                     "robud",
                     "robɒʔid"
                   ],
@@ -7244,8 +7244,8 @@
                       "ربود",
                       "ربائید"
                     ],
-      "informal API present stem": "robɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "robɒ",
+      "informal IPA past stem": [
                     "robud",
                     "robɒʔid"
                   ],
@@ -7262,8 +7262,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "pejmɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "pejmɒ",
+      "formal IPA past stem": [
                       "pejmud",
                       "pejmɒʔid"
                     ],
@@ -7272,8 +7272,8 @@
                       "پیمود",
                       "پیمائید"
                     ],
-      "informal API present stem": "pejmɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "pejmɒ",
+      "informal IPA past stem": [
                       "pejmud",
                       "pejmɒʔid"
                     ],
@@ -7290,12 +7290,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʃuj",
-      "formal API past stem": "ʃost",
+      "formal IPA present stem": "ʃuj",
+      "formal IPA past stem": "ʃost",
       "formal Persian present stem": "شوی",
       "formal Persian past stem": "شست",
-      "informal API present stem": "ʃur",
-      "informal API past stem": "ʃost",
+      "informal IPA present stem": "ʃur",
+      "informal IPA past stem": "ʃost",
       "informal Persian present stem": "شور",
       "informal Persian past stem": "شست",
       "paradigm": ""
@@ -7306,8 +7306,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʔenɟɒr",
-      "formal API past stem": [
+      "formal IPA present stem": "ʔenɟɒr",
+      "formal IPA past stem": [
                       "ʔenɟɒʃt",
                       "ʔenɟɒrd"
                     ],
@@ -7316,8 +7316,8 @@
                       "انگاشت",
                       "انگارد"
                     ],
-      "informal API present stem": "ʔenɟɒr",
-      "informal API past stem": [
+      "informal IPA present stem": "ʔenɟɒr",
+      "informal IPA past stem": [
                       "ʔenɟɒʃt",
                       "ʔenɟɒrd"
                     ],
@@ -7334,12 +7334,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "pærɒcæn",
-      "formal API past stem": "pærɒcænd",
+      "formal IPA present stem": "pærɒcæn",
+      "formal IPA past stem": "pærɒcænd",
       "formal Persian present stem": "پراکن",
       "formal Persian past stem": "پراکند",
-      "informal API present stem": "pærɒcæn",
-      "informal API past stem": "pærɒcænd",
+      "informal IPA present stem": "pærɒcæn",
+      "informal IPA past stem": "pærɒcænd",
       "informal Persian present stem": "پراکن",
       "informal Persian past stem": "پراکند",
       "paradigm": ""
@@ -7350,12 +7350,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "tɒz",
-      "formal API past stem": "tɒxt",
+      "formal IPA present stem": "tɒz",
+      "formal IPA past stem": "tɒxt",
       "formal Persian present stem": "تاز",
       "formal Persian past stem": "تاخت",
-      "informal API present stem": "tɒz",
-      "informal API past stem": "tɒxt",
+      "informal IPA present stem": "tɒz",
+      "informal IPA past stem": "tɒxt",
       "informal Persian present stem": "تاز",
       "informal Persian past stem": "تاخت",
       "paradigm": ""
@@ -7366,8 +7366,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "zodɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "zodɒ",
+      "formal IPA past stem": [
                     "zodud",
                     "zodɒʔid"
                   ],
@@ -7376,8 +7376,8 @@
                       "زدود",
                       "زدائید"
                      ],
-      "informal API present stem": "zodɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "zodɒ",
+      "informal IPA past stem": [
                     "zodud",
                     "zodɒʔid"
                   ],
@@ -7394,8 +7394,8 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ɟosæl",
-      "formal API past stem": [
+      "formal IPA present stem": "ɟosæl",
+      "formal IPA past stem": [
                     "ɟosæst",
                     "ɟosixt"
                   ],
@@ -7404,8 +7404,8 @@
                 "گسست",
                 "گسیخت"
               ],
-      "informal API present stem": "ɟosæl",
-      "informal API past stem": [
+      "informal IPA present stem": "ɟosæl",
+      "informal IPA past stem": [
                     "ɟosæst",
                     "ɟosixt"
                   ],
@@ -7422,8 +7422,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʔɒzmɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "ʔɒzmɒ",
+      "formal IPA past stem": [
                       "ʔɒzmud",
                       "ʔɒzmɒʔid"
                     ],
@@ -7432,8 +7432,8 @@
                       "آزمود",
                       "آزمائید"
                     ],
-      "informal API present stem": "ʔɒzmɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "ʔɒzmɒ",
+      "informal IPA past stem": [
                       "ʔɒzmud",
                       "ʔɒzmɒʔid"
                     ],
@@ -7450,12 +7450,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟerj",
-      "formal API past stem": "ɟerist",
+      "formal IPA present stem": "ɟerj",
+      "formal IPA past stem": "ɟerist",
       "formal Persian present stem": "گری",
       "formal Persian past stem": "گریست",
-      "informal API present stem": "ɟerj",
-      "informal API past stem": "ɟerist",
+      "informal IPA present stem": "ɟerj",
+      "informal IPA past stem": "ɟerist",
       "informal Persian present stem": "گری",
       "informal Persian past stem": "گریست",
       "paradigm": ""
@@ -7466,8 +7466,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "sotɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "sotɒ",
+      "formal IPA past stem": [
                       "sotud",
                       "sotɒʔid"
                     ],
@@ -7476,8 +7476,8 @@
                       "ستود",
                       "ستائید"
                     ],
-      "informal API present stem": "setɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "setɒ",
+      "informal IPA past stem": [
                       "sotud",
                       "setɒʔid"
                     ],
@@ -7494,12 +7494,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "cæn",
-      "formal API past stem": "cænd",
+      "formal IPA present stem": "cæn",
+      "formal IPA past stem": "cænd",
       "formal Persian present stem": "کَن",
       "formal Persian past stem": "کَند",
-      "informal API present stem": "cæn",
-      "informal API past stem": "cænd",
+      "informal IPA present stem": "cæn",
+      "informal IPA past stem": "cænd",
       "informal Persian present stem": "کَن",
       "informal Persian past stem": "کَند",
       "paradigm": ""
@@ -7510,8 +7510,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʔænbɒr",
-      "formal API past stem": [
+      "formal IPA present stem": "ʔænbɒr",
+      "formal IPA past stem": [
                     "ʔænbɒʃt",
                     "ʔænbɒrd"
                   ],
@@ -7520,8 +7520,8 @@
                 "انباشت",
                 "انبارد"
               ],
-      "informal API present stem": "ʔænbɒr",
-      "informal API past stem": [
+      "informal IPA present stem": "ʔænbɒr",
+      "informal IPA past stem": [
                     "ʔænbɒʃt",
                     "ʔænbɒrd"
                   ],
@@ -7538,12 +7538,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʃecof",
-      "formal API past stem": "ʃecoft",
+      "formal IPA present stem": "ʃecof",
+      "formal IPA past stem": "ʃecoft",
       "formal Persian present stem": "شکف",
       "formal Persian past stem": "شکفت",
-      "informal API present stem": "ʃecof",
-      "informal API past stem": "ʃecoft",
+      "informal IPA present stem": "ʃecof",
+      "informal IPA past stem": "ʃecoft",
       "informal Persian present stem": "شکف",
       "informal Persian past stem": "شکفت",
       "paradigm": ""
@@ -7554,8 +7554,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʔɒlɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "ʔɒlɒ",
+      "formal IPA past stem": [
                       "ʔɒlud",
                       "ʔɒlɒʔid"
                     ],
@@ -7564,8 +7564,8 @@
                       "آلود",
                       "آلائید"
                     ],
-      "informal API present stem": "ʔɒlɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "ʔɒlɒ",
+      "informal IPA past stem": [
                       "ʔɒlud",
                       "ʔɒlɒʔid"
                     ],
@@ -7582,12 +7582,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔɒviz",
-      "formal API past stem": "ʔɒvixt",
+      "formal IPA present stem": "ʔɒviz",
+      "formal IPA past stem": "ʔɒvixt",
       "formal Persian present stem": "آویز",
       "formal Persian past stem": "آویخت",
-      "informal API present stem": "ʔɒviz",
-      "informal API past stem": "ʔɒvixt",
+      "informal IPA present stem": "ʔɒviz",
+      "informal IPA past stem": "ʔɒvixt",
       "informal Persian present stem": "آویز",
       "informal Persian past stem": "آویخت",
       "paradigm": ""
@@ -7598,8 +7598,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "neɟɒr",
-      "formal API past stem": [
+      "formal IPA present stem": "neɟɒr",
+      "formal IPA past stem": [
                       "neɟɒʃt",
                       "neɟɒrd"
                     ],
@@ -7608,8 +7608,8 @@
                       "نگاشت",
                       "نگارد"
                     ],
-      "informal API present stem": "neɟɒr",
-      "informal API past stem": [
+      "informal IPA present stem": "neɟɒr",
+      "informal IPA past stem": [
                       "neɟɒʃt",
                       "neɟɒrd"
                     ],
@@ -7626,12 +7626,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟozin",
-      "formal API past stem": "ɟozid",
+      "formal IPA present stem": "ɟozin",
+      "formal IPA past stem": "ɟozid",
       "formal Persian present stem": "گُزین",
       "formal Persian past stem": "گُزید",
-      "informal API present stem": "ɟozin",
-      "informal API past stem": "ɟozid",
+      "informal IPA present stem": "ɟozin",
+      "informal IPA past stem": "ɟozid",
       "informal Persian present stem": "گُزین",
       "informal Persian past stem": "گُزید",
       "paradigm": ""
@@ -7642,12 +7642,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "pærvær",
-      "formal API past stem": "pærværd",
+      "formal IPA present stem": "pærvær",
+      "formal IPA past stem": "pærværd",
       "formal Persian present stem": "پرور",
       "formal Persian past stem": "پرورد",
-      "informal API present stem": "pærvær",
-      "informal API past stem": "pærværd",
+      "informal IPA present stem": "pærvær",
+      "informal IPA past stem": "pærværd",
       "informal Persian present stem": "پرور",
       "informal Persian past stem": "پرورد",
       "paradigm": ""
@@ -7658,12 +7658,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟostær",
-      "formal API past stem": "ɟostærd",
+      "formal IPA present stem": "ɟostær",
+      "formal IPA past stem": "ɟostærd",
       "formal Persian present stem": "گستر",
       "formal Persian past stem": "گسترد",
-      "informal API present stem": "ɟostær",
-      "informal API past stem": "ɟostærd",
+      "informal IPA present stem": "ɟostær",
+      "informal IPA past stem": "ɟostærd",
       "informal Persian present stem": "گستر",
       "informal Persian past stem": "گسترد",
       "paradigm": ""
@@ -7674,8 +7674,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "færsɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "færsɒ",
+      "formal IPA past stem": [
                       "færsud",
                       "færsɒʔid"
                     ],
@@ -7684,8 +7684,8 @@
                       "فرسود",
                       "فرسائید"
                     ],
-      "informal API present stem": "færsɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "færsɒ",
+      "informal IPA past stem": [
                       "færsud",
                       "færsɒʔid"
                     ],
@@ -7702,8 +7702,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "færib",
-      "formal API past stem": [
+      "formal IPA present stem": "færib",
+      "formal IPA past stem": [
                     "færift",
                     "færibid"
                   ],
@@ -7712,8 +7712,8 @@
                       "فریفت",
                       "فریبید"
                     ],
-      "informal API present stem": "færib",
-      "informal API past stem": [
+      "informal IPA present stem": "færib",
+      "informal IPA past stem": [
                     "færift",
                     "færibid"
                   ],
@@ -7730,12 +7730,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔæfruz",
-      "formal API past stem": "ʔæfruxt",
+      "formal IPA present stem": "ʔæfruz",
+      "formal IPA past stem": "ʔæfruxt",
       "formal Persian present stem": "افروز",
       "formal Persian past stem": "افروخت",
-      "informal API present stem": "ʔæfruz",
-      "informal API past stem": "ʔæfruxt",
+      "informal IPA present stem": "ʔæfruz",
+      "informal IPA past stem": "ʔæfruxt",
       "informal Persian present stem": "افروز",
       "informal Persian past stem": "افروخت",
       "paradigm": ""
@@ -7746,11 +7746,11 @@
       "transitivity": "intransitive",
       "present dual": true,
       "past dual": true,
-      "formal API present stem": [
+      "formal IPA present stem": [
                     "ʔæfsor",
                     "fesor"
                   ],
-      "formal API past stem": [
+      "formal IPA past stem": [
                     "ʔæfsord",
                     "fesord"
                   ],
@@ -7762,11 +7762,11 @@
                       "افسرد",
                       "فسرد"
                     ],
-      "informal API present stem": [
+      "informal IPA present stem": [
                     "ʔæfsor",
                     "fesor"
                   ],
-      "informal API past stem": [
+      "informal IPA past stem": [
                     "ʔæfsord",
                     "fesord"
                   ],
@@ -7786,12 +7786,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔænduz",
-      "formal API past stem": "ʔænduxt",
+      "formal IPA present stem": "ʔænduz",
+      "formal IPA past stem": "ʔænduxt",
       "formal Persian present stem": "اندوز",
       "formal Persian past stem": "اندوخت",
-      "informal API present stem": "ʔænduz",
-      "informal API past stem": "ʔænduxt",
+      "informal IPA present stem": "ʔænduz",
+      "informal IPA past stem": "ʔænduxt",
       "informal Persian present stem": "اندوز",
       "informal Persian past stem": "اندوخت",
       "paradigm": ""
@@ -7802,8 +7802,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʔæfrɒz",
-      "formal API past stem": [
+      "formal IPA present stem": "ʔæfrɒz",
+      "formal IPA past stem": [
                     "ʔæfrɒxt",
                     "ʔæfrɒʃt"
                   ],
@@ -7812,8 +7812,8 @@
                 "افراخت",
                 "افراشت"
               ],
-      "informal API present stem": "ʔæfrɒz",
-      "informal API past stem": [
+      "informal IPA present stem": "ʔæfrɒz",
+      "informal IPA past stem": [
                     "ʔæfrɒxt",
                     "ʔæfrɒʃt"
                   ],
@@ -7830,11 +7830,11 @@
       "transitivity": "intransitive",
       "present dual": true,
       "past dual": true,
-      "formal API present stem": [
+      "formal IPA present stem": [
                     "ʔɒzor",
                     "ʔɒzɒr"
                   ],
-      "formal API past stem": [
+      "formal IPA past stem": [
                     "ʔɒzord",
                     "ʔɒzɒrd"
                   ],
@@ -7846,11 +7846,11 @@
                       "آزرد",
                       "آزارد"
                     ],
-      "informal API present stem": [
+      "informal IPA present stem": [
                     "ʔɒzor",
                     "ʔɒzɒr"
                   ],
-      "informal API past stem": [
+      "informal IPA past stem": [
                     "ʔɒzord",
                     "ʔɒzɒrd"
                   ],
@@ -7870,12 +7870,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟozɒr",
-      "formal API past stem": "ɟozɒrd",
+      "formal IPA present stem": "ɟozɒr",
+      "formal IPA past stem": "ɟozɒrd",
       "formal Persian present stem": "گزار",
       "formal Persian past stem": "گزارد",
-      "informal API present stem": "ɟozɒr",
-      "informal API past stem": "ɟozɒrd",
+      "informal IPA present stem": "ɟozɒr",
+      "informal IPA past stem": "ɟozɒrd",
       "informal Persian present stem": "گزار",
       "informal Persian past stem": "گزارد",
       "paradigm": ""
@@ -7886,12 +7886,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "rin",
-      "formal API past stem": "rid",
+      "formal IPA present stem": "rin",
+      "formal IPA past stem": "rid",
       "formal Persian present stem": "رین",
       "formal Persian past stem": "رید",
-      "informal API present stem": "rin",
-      "informal API past stem": "rid",
+      "informal IPA present stem": "rin",
+      "informal IPA past stem": "rid",
       "informal Persian present stem": "رین",
       "informal Persian past stem": "رید",
       "paradigm": ""
@@ -7902,12 +7902,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔænɟiz",
-      "formal API past stem": "ʔænɟixt",
+      "formal IPA present stem": "ʔænɟiz",
+      "formal IPA past stem": "ʔænɟixt",
       "formal Persian present stem": "انگیز",
       "formal Persian past stem": "انگیخت",
-      "informal API present stem": "ʔænɟiz",
-      "informal API past stem": "ʔænɟixt",
+      "informal IPA present stem": "ʔænɟiz",
+      "informal IPA past stem": "ʔænɟixt",
       "informal Persian present stem": "انگیز",
       "informal Persian past stem": "انگیخت",
       "paradigm": ""
@@ -7918,12 +7918,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ɟodɒz",
-      "formal API past stem": "ɟodɒxt",
+      "formal IPA present stem": "ɟodɒz",
+      "formal IPA past stem": "ɟodɒxt",
       "formal Persian present stem": "گداز",
       "formal Persian past stem": "گداخت",
-      "informal API present stem": "ɟodɒz",
-      "informal API past stem": "ɟodɒxt",
+      "informal IPA present stem": "ɟodɒz",
+      "informal IPA past stem": "ɟodɒxt",
       "informal Persian present stem": "گداز",
       "informal Persian past stem": "گداخت",
       "paradigm": ""
@@ -7934,8 +7934,8 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʔɒʃub",
-      "formal API past stem": [
+      "formal IPA present stem": "ʔɒʃub",
+      "formal IPA past stem": [
                       "ʔɒʃoft",
                       "ʔɒʃubid"
                     ],
@@ -7944,8 +7944,8 @@
                       "آشفت",
                       "آشوبید"
                     ],
-      "informal API present stem": "ʔɒʃub",
-      "informal API past stem": [
+      "informal IPA present stem": "ʔɒʃub",
+      "informal IPA past stem": [
                       "ʔɒʃoft",
                       "ʔɒʃubid"
                     ],
@@ -7962,8 +7962,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "ʔɒsɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "ʔɒsɒ",
+      "formal IPA past stem": [
                       "ʔɒsud",
                       "ʔɒsɒʔid"
                     ],
@@ -7972,8 +7972,8 @@
                       "آسود",
                       "آسائید"
                     ],
-      "informal API present stem": "ʔɒsɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "ʔɒsɒ",
+      "informal IPA past stem": [
                       "ʔɒsud",
                       "ʔɒsɒʔid"
                     ],
@@ -7990,8 +7990,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "pɒlɒ",
-      "formal API past stem": [
+      "formal IPA present stem": "pɒlɒ",
+      "formal IPA past stem": [
                       "pɒlud",
                       "pɒlɒʔid"
                     ],
@@ -8000,8 +8000,8 @@
                       "پالود",
                       "پالائید"
                     ],
-      "informal API present stem": "pɒlɒ",
-      "informal API past stem": [
+      "informal IPA present stem": "pɒlɒ",
+      "informal IPA past stem": [
                       "pɒlud",
                       "pɒlɒʔid"
                     ],
@@ -8018,12 +8018,12 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "ʔɒcæn",
-      "formal API past stem": "ʔɒcænd",
+      "formal IPA present stem": "ʔɒcæn",
+      "formal IPA past stem": "ʔɒcænd",
       "formal Persian present stem": "آکن",
       "formal Persian past stem": "آکند",
-      "informal API present stem": "ʔɒcæn",
-      "informal API past stem": "ʔɒcænd",
+      "informal IPA present stem": "ʔɒcæn",
+      "informal IPA past stem": "ʔɒcænd",
       "informal Persian present stem": "آکن",
       "informal Persian past stem": "آکند",
       "paradigm": ""
@@ -8034,8 +8034,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "pærhiz",
-      "formal API past stem": [
+      "formal IPA present stem": "pærhiz",
+      "formal IPA past stem": [
                       "pærhixt",
                       "pærhizid"
                     ],
@@ -8044,8 +8044,8 @@
                       "پرهیخت",
                       "پرهیزید"
                     ],
-      "informal API present stem": "pærhiz",
-      "informal API past stem": [
+      "informal IPA present stem": "pærhiz",
+      "informal IPA past stem": [
                       "pærhixt",
                       "pærhizid"
                     ],
@@ -8062,8 +8062,8 @@
       "transitivity": "intransitive",
       "present dual": false,
       "past dual": true,
-      "formal API present stem": "hel",
-      "formal API past stem": [
+      "formal IPA present stem": "hel",
+      "formal IPA past stem": [
                       "hæʃt",
                       "helid"
                     ],
@@ -8072,8 +8072,8 @@
                       "هشت",
                       "هلید"
                     ],
-      "informal API present stem": "hel",
-      "informal API past stem": [
+      "informal IPA present stem": "hel",
+      "informal IPA past stem": [
                       "hæʃt",
                       "helid"
                     ],
@@ -8090,12 +8090,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "jæv",
-      "formal API past stem": "jævid",
+      "formal IPA present stem": "jæv",
+      "formal IPA past stem": "jævid",
       "formal Persian present stem": "جَو",
       "formal Persian past stem": "جوید",
-      "informal API present stem": "jo",
-      "informal API past stem": "joʔid",
+      "informal IPA present stem": "jo",
+      "informal IPA past stem": "joʔid",
       "informal Persian present stem": "جَو",
       "informal Persian past stem": "جوئید",
       "paradigm": ""
@@ -8106,12 +8106,12 @@
       "transitivity": "transitive",
       "present dual": false,
       "past dual": false,
-      "formal API present stem": "dæv",
-      "formal API past stem": "dævid",
+      "formal IPA present stem": "dæv",
+      "formal IPA past stem": "dævid",
       "formal Persian present stem": "دو",
       "formal Persian past stem": "دوید",
-      "informal API present stem": "do",
-      "informal API past stem": "doʔid",
+      "informal IPA present stem": "do",
+      "informal IPA past stem": "doʔid",
       "informal Persian present stem": "دو",
       "informal Persian past stem": "دوئید",
       "paradigm": ""
@@ -8122,16 +8122,16 @@
         "transitivity": "transitive",
         "present dual": false,
         "past dual": true,
-        "formal API present stem": "ʤu",
-        "formal API past stem": [
+        "formal IPA present stem": "ʤu",
+        "formal IPA past stem": [
           "ʤost",
           "ʤuʔid"],
         "formal Persian present stem": "جو",
         "formal Persian past stem": [
           "جُست",
           "جوئید"],
-        "informal API present stem": "ʤu",
-        "informal API past stem": [
+        "informal IPA present stem": "ʤu",
+        "informal IPA past stem": [
           "ʤost",
           "ʤuʔid"],
         "informal Persian present stem": "جو",
@@ -8146,16 +8146,16 @@
             "transitivity": "transitive",
             "present dual": false,
             "past dual": true,
-            "formal API present stem": "ru",
-            "formal API past stem": [
+            "formal IPA present stem": "ru",
+            "formal IPA past stem": [
               "rost",
               "ruʔid"],
             "formal Persian present stem": "رو",
             "formal Persian past stem": [
               "رُست",
               "روئید"],
-            "informal API present stem": "ru",
-            "informal API past stem": [
+            "informal IPA present stem": "ru",
+            "informal IPA past stem": [
               "rost",
               "ruʔid"],
             "informal Persian present stem": "رو",
@@ -8170,16 +8170,16 @@
           "transitivity": "transitive",
           "present dual": false,
           "past dual": true,
-          "formal API present stem": "ræh",
-          "formal API past stem": [
+          "formal IPA present stem": "ræh",
+          "formal IPA past stem": [
             "ræst",
             "ræhid"],
           "formal Persian present stem": "ره",
           "formal Persian past stem": [
             "رَست",
             "رهید"],
-          "informal API present stem": "ræh",
-          "informal API past stem": [
+          "informal IPA present stem": "ræh",
+          "informal IPA past stem": [
             "ræst",
             "ræhid"],
           "informal Persian present stem": "ره",

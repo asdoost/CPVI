@@ -6,6 +6,12 @@ CPVI تصریف‌گر جامع افعال فارسی است که از مدل م
 
 CPVI (Comprehensive Persian Verb Inflector) is a Persian Verb Inflector. PVI uses Dual Mechanism theory (Words &amp; Rules theory) to inflect Persian verbs.
 
+## Installation
+
+```shell
+>>> pip install CPVI
+```
+
 ## Usage
 
 `CPVI` class has only a `profiling`method.
@@ -17,12 +23,12 @@ The `profiling` method returns the profile of the verb passed as a argument. The
 * transitivity (transitive/intransitive);
 * present dual (True/False);
 * past dual (True/False);
-* formal API present stem;
-* formal API past stem;
+* formal IPA present stem;
+* formal IPA past stem;
 * formal Persian present stem;
 * formal Persian past stem;
-* informal API present stem;
-* informal API past stem;
+* informal IPA present stem;
+* informal IPA past stem;
 * informal Persian present stem;
 * informal Persian past stem;
 * paradigm (inflected forms of the verb)
@@ -30,7 +36,7 @@ The `profiling` method returns the profile of the verb passed as a argument. The
 `profiling` accepts 3 arguments:
 
 * `word`: The Persian form of the word that you want to be inflected as a verb. The main assumption here is that users pass either present stem, past stem, or gerund.
-* `API_form`: The API form of the word; it is optional and the default value is an empty string. Non-Persian-API characters raise TypeError.
+* `API_form`: The IPA form of the word; it is optional and the default value is an empty string. Non-Persian-IPA characters raise TypeError.
 * `space`: The type of space you want to be placed between inflected words and affixes; it is optional and the default value is ZWNJ (\u200c).
 
 ```python
@@ -42,17 +48,17 @@ The `profiling` method returns the profile of the verb passed as a argument. The
 'transitivity': 'intransitive', 
 'present dual': False, 
 'past dual': False, 
-'formal API present stem': 'ʔɒ',
-'formal API past stem': 'ʔɒmæd',
+'formal IPA present stem': 'ʔɒ',
+'formal IPA past stem': 'ʔɒmæd',
 'formal Persian present stem': 'آ',
 'formal Persian past stem': 'آمد',
-'informal API present stem': 'ʔɒ',
-'informal API past stem': 'ʔumæd',
+'informal IPA present stem': 'ʔɒ',
+'informal IPA past stem': 'ʔumæd',
 'informal Persian present stem': 'آ',
 'informal Persian past stem': 'اومد',
 'paradigm': {
     'formal': {
-        'API': {
+        'IPA': {
             'affirmative': {
                 'present': {
                     'simple': {
@@ -166,7 +172,7 @@ The `profiling` method returns the profile of the verb passed as a argument. The
 `profiling` returns a nested dictionary. The `paradigm` key is a nested hierarchical dictionary containing all the inflected forms. The hierarchy consists of 6 layers. Use the hierarchy to navigate through the dictionary.
 
 * The first layer is formality which is either `formal` or `informal`.
-* The second layer is the type of alphabet which is either `Persian` or `API`.
+* The second layer is the type of alphabet which is either `Persian` or `IPA`.
 * The third layer is polarity which is either `affirmative` or `negative`.
 * The fourth layer is tense which is either `past`, `present`, or `future`.
 * The fifth layer for past tense is either `simple`, `continuous`, `subjunctive`, `progressive`, `perfect`, or `perfect subjunctive`.
@@ -179,7 +185,7 @@ The fifth layer for future tense is just `simple`.
 >>> profile = p.profiling('گفت', 'Ɉoft', '\u200c')
 # navigate to informal inflections
 >>> profile['paradigm']['informal']
-{'API': {
+{'IPA': {
     'affirmative': {
         'present': {
             'simple':{
@@ -262,10 +268,10 @@ In dual verbs, each paradigm has two set of inflected forms enclosed in a list, 
 ]
 ```
 
-The `API_form` argument only accepts Persian API alphabet. If you are not familiar with API alphabet, use `CPVI.API` to see the mapping between API and Persian alphabet:
+The `API_form` argument only accepts Persian IPA alphabet. If you are not familiar with IPA alphabet, use `CPVI.IPA` to see the mapping between IPA and Persian alphabet:
 
 ```python
->>> CPVI.API
+>>> CPVI.IPA
 {
     'b': 'ب', 
     'p': 'پ', 
@@ -299,7 +305,7 @@ The `API_form` argument only accepts Persian API alphabet. If you are not famili
     }
 ```
 
-None-API characters raise `TypeError`.
+None-IPA characters raise `TypeError`.
 
 The space between words and affixes could be adjusted by passing either space, ZWNJ (\u200c), or empty string as the `space` argument:
 

@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 from itertools import product
 from .utils import *
@@ -30,17 +29,17 @@ def inflector(profile, space):
 
     # make an empty paradigm frame
     paradigm = {'formal': {
-                    'API': {'affirmative': {}, 'negative': {}}, 
+                    'IPA': {'affirmative': {}, 'negative': {}}, 
                     'Persian': {'affirmative': {}, 'negative': {}}},
                 'informal': {
-                    'API': {'affirmative': {}, 'negative': {}}, 
+                    'IPA': {'affirmative': {}, 'negative': {}}, 
                     'Persian': {'affirmative': {}, 'negative': {}}}}
     
     # make a list of tuples for iteration
     comb = product([True, False], repeat=3)
 
-    # iterate through negation, formality, and API
-    for negation, formality, API in comb:
+    # iterate through negation, formality, and IPA
+    for negation, formality, IPA in comb:
 
         # make empty dictionaries for past, present, and future
         past = {'simple': [], 'continuous': [], 'subjunctive': [], 
@@ -51,31 +50,31 @@ def inflector(profile, space):
 
         # turn booleans to string
         frmlty = ['informal', 'formal'][formality]
-        alphabet = ['Persian', 'API'][API]
+        alphabet = ['Persian', 'IPA'][IPA]
         polarity = ['affirmative', 'negative'][negation]
 
         # retrieve present and past stems
         present_stem, past_stem = steming(profile, frmlty, alphabet)
 
         # assign suffix and word spaces
-        pres, sufs, wrds = spacing(space, API)
+        pres, sufs, wrds = spacing(space, IPA)
 
         # retrieve auxiliaries
         prf_aux, sub_aux, prg_prs_aux, prg_pst_aux, ftr_aux = auxiliary(frmlty, alphabet)
 
         # the participle form of the perfect auxiliary
-        part_aux = ["بوده", "bude"][API]
+        part_aux = ["بوده", "bude"][IPA]
 
         # retrieve conjugations
         past_conj, present_conj, perfect_conj, imperative_conj = conj(frmlty, alphabet)
 
         # retrieve continuous, negation, and subjunctive prefixes
-        contix, neg, sub =  prefix(negation, API)
+        contix, neg, sub =  prefix(negation, IPA)
 
         # inflect present stem
         for stem in present_stem:
 
-            # prevent execution if the API form of the stem is not provided
+            # prevent execution if the IPA form of the stem is not provided
             if stem == '':
                 present = None
                 break
@@ -106,7 +105,7 @@ def inflector(profile, space):
         # inflect past stem
         for stem in past_stem:
 
-            # prevent execution if the API from of the stem is not provided
+            # prevent execution if the IPA from of the stem is not provided
             if stem == '':
                 past = None
                 break
@@ -116,7 +115,7 @@ def inflector(profile, space):
                                         prefixing(contix, stem, pres))
 
             # past participle
-            part = prefixing('', f'{stem}{["ه", "e"][API]}', space)
+            part = prefixing('', f'{stem}{["ه", "e"][IPA]}', space)
 
             # نگفتم
             past['simple'].append(concatenate(stem, past_conj))
@@ -150,7 +149,7 @@ def inflector(profile, space):
                     part, sufs, perfect_conj))
                 # نخواهم گفت
                 future['simple'].append(concatenate(neg, ftr_aux, wrds, stem))
-            elif not formality and not API:
+            elif not formality and not IPA:
                 # نگفتم
                 present['perfect'].append(concatenate(stem, present_conj))
                 # نگفته‌ بودم
@@ -176,12 +175,12 @@ profile = {
     'transitivity': 'transitive',
     'present dual': False,
     'past dual': True,
-    'formal API present stem': 'resɒn',
-    'formal API past stem': ['resɒnd', 'resɒnid'],
+    'formal IPA present stem': 'resɒn',
+    'formal IPA past stem': ['resɒnd', 'resɒnid'],
     'formal Persian present stem': 'رسان',
     'formal Persian past stem': ['رساند', 'رسانید'],
-    'informal API present stem': 'resun',
-    'informal API past stem': ['resund', 'resunid'],
+    'informal IPA present stem': 'resun',
+    'informal IPA past stem': ['resund', 'resunid'],
     'informal Persian present stem': 'رسون',
     'informal Persian past stem': ['رسوند', 'رسونید'],
     'paradigm': ''}
@@ -191,16 +190,16 @@ profile = {
     'transitivity': 'intransitive',
     'present dual': False,
     'past dual': False,
-    'formal API present stem': 'ʔɒ',
-    'formal API past stem': 'ʔɒmæd',
+    'formal IPA present stem': 'ʔɒ',
+    'formal IPA past stem': 'ʔɒmæd',
     'formal Persian present stem': 'آ',
     'formal Persian past stem': 'آمد',
-    'informal API present stem': 'ʔɒ',
-    'informal API past stem': 'ʔumæd',
+    'informal IPA present stem': 'ʔɒ',
+    'informal IPA past stem': 'ʔumæd',
     'informal Persian present stem': 'آ',
     'informal Persian past stem': 'اومد',
     'paradigm': ''}
 
 if __name__ == '__main__':
     p = inflector(profile, ' ')
-    print(p['paradigm']['formal']['API']['affirmative']['present']['subjunctive']['s1'])
+    print(p['paradigm']['formal']['IPA']['affirmative']['present']['subjunctive']['s1'])

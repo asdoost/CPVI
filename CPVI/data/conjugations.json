@@ -1,7 +1,7 @@
 {
   "subjective": {
     "formal": {
-        "API": {
+        "IPA": {
             "present": {
                 "s1": "æm",
                 "s2": "i",
@@ -71,7 +71,7 @@
         }
     },
     "informal": {
-        "API": {
+        "IPA": {
             "present": {
                 "s1": "æm",
                 "s2": "i",
@@ -173,7 +173,7 @@
 },
   "objective": {
     "formal": {
-        "API": {
+        "IPA": {
           "s1": "æm",
           "s2": "æt",
           "s3": "æʃ",
@@ -191,7 +191,7 @@
         }
     },
     "informal": {
-        "API": {
+        "IPA": {
           "s1": "æm",
           "s2": "et",
           "s3": "eʃ",

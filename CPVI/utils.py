@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
 
 from itertools import product
 from pathlib import Path
@@ -42,7 +41,7 @@ def concatenate(*args):
 
     return paradigm
 
-def prefix(neg, API):
+def prefix(neg, IPA):
     """
     Retrieve appropriate forms of prefixes based on polarity and alphabet
 
@@ -50,7 +49,7 @@ def prefix(neg, API):
     ----------
     neg : bool
         A flag used to determine the polarity
-    API : bool
+    IPA : bool
         A flag used to determine the type of alphabet
 
     Returns
@@ -58,9 +57,9 @@ def prefix(neg, API):
     list
         a list of appropriate prefixes
     """
-    cont = [[f'می', 'mi'], [f'نمی', 'nemi']][neg][API]
-    negt = 'næ' if neg and API else 'ن' if neg else ''
-    sub = [['ب', 'be'], ['ن', 'næ']][neg][API]
+    cont = [[f'می', 'mi'], [f'نمی', 'nemi']][neg][IPA]
+    negt = 'næ' if neg and IPA else 'ن' if neg else ''
+    sub = [['ب', 'be'], ['ن', 'næ']][neg][IPA]
     return [cont, negt, sub]
 
 def conj(frm, alph):
@@ -162,15 +161,17 @@ def steming(profile, frmlty, alphabet):
                 present_stem.append(f'{stem}ی')
             elif stem[-1] in 'ɒui':
                 present_stem.append(f'{stem}j')
+            else:
+                present_stem += present
     return [present_stem, past]
 
-def spacing(space, API):
+def spacing(space, IPA):
     """
     Assign space based on its location
 
     Parameters
     ----------
-    API : bool
+    IPA : bool
         A flag used to determine the type of alphabet
     space : str
         The type of space chosen by user
@@ -180,7 +181,7 @@ def spacing(space, API):
     list
         a list of spaces for prefixes, suffixes, and words
     """
-    if API:
+    if IPA:
         return ['', '', ' ']
     elif space == ' ' or space == '\u200c':
         return [space, space, space]
@@ -237,7 +238,7 @@ def prefixing(prefix, stem, space):
             return f'{prefix}j{stem[1:]}'
         return f'{prefix}{stem}'
     else:
-        print('>>>>>>>>>>', "Please contact us to tell what did you get wrong")
+        print('>>>>>>>>>>', "Please contact us to report what did you get wrong")
         
 
 def unpack(dic):
@@ -270,4 +271,4 @@ if __name__=='__main__':
     print(concatenate('a', {'s1': 'x', 's2': 'x', 's3': 'x', 
                             'p1': 'x', 'p2': 'x', 'p3': 'x'}))
     print(prefixing('نمی', 'ایست', ''))
-    print(auxiliary('formal', 'API'))
+    print(auxiliary('formal', 'IPA'))
