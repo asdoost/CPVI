@@ -127,7 +127,7 @@ def auxiliary(frm, alph):
     ftr_aux = data['خواستن']['paradigm'][frm][alph]['affirmative']['present']['simple']
     return [prf_aux, sub_aux, prg_prs_aux, prg_pst_aux, ftr_aux]
 
-def stems(profile, frmlty, alphabet):
+def steming(profile, frmlty, alphabet):
     """
     Retrieve stems from the dictionary
 
@@ -154,14 +154,19 @@ def stems(profile, frmlty, alphabet):
         past = profile[f'{path} past stem']
     else:
         past = [profile[f'{path} past stem']]
-    present_stem = [f'{stem}ی' if stem[-1] in 'اوآ' else f'{stem}j' if 
-                    stem[-1] in 'ɒui' else stem for stem in present]
+    
+    present_stem = []
+    for stem in present:
+        if stem:
+            if stem[-1] in 'اوآ':
+                present_stem.append(f'{stem}ی')
+            elif stem[-1] in 'ɒui':
+                present_stem.append(f'{stem}j')
     return [present_stem, past]
-
 
 def spacing(space, API):
     """
-    Retrieve stems from the dictionary
+    Assign space based on its location
 
     Parameters
     ----------

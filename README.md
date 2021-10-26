@@ -3,6 +3,7 @@
 <div dir="rtl">
 CPVI تصریف‌گر جامع افعال فارسی است که از مدل مکانیسم دوگانه (dual-route) برای تصریف استفاده می‌کند.
 </div>
+
 CPVI (Comprehensive Persian Verb Inflector) is a Persian Verb Inflector. PVI uses Dual Mechanism theory (Words &amp; Rules theory) to inflect Persian verbs.
 
 ## Usage

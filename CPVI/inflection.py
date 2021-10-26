@@ -55,7 +55,7 @@ def inflector(profile, space):
         polarity = ['affirmative', 'negative'][negation]
 
         # retrieve present and past stems
-        present_stem, past_stem = stems(profile, frmlty, alphabet)
+        present_stem, past_stem = steming(profile, frmlty, alphabet)
 
         # assign suffix and word spaces
         pres, sufs, wrds = spacing(space, API)
@@ -116,7 +116,7 @@ def inflector(profile, space):
                                         prefixing(contix, stem, pres))
 
             # past participle
-            part = prefixing(neg, f'{stem}{["ه", "e"][API]}', space)
+            part = prefixing('', f'{stem}{["ه", "e"][API]}', space)
 
             # نگفتم
             past['simple'].append(concatenate(stem, past_conj))

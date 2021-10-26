@@ -30,8 +30,8 @@ setup(
         "Programming Language :: Python :: 3.9",
     ],
     packages=["CPVI"],
+    package_dir={'CPVI': 'CPVI'},
     package_data={'CPVI': ['data/*.json']},
-    include_package_data=True,
     install_requires=["pathlib"]
 )
 
