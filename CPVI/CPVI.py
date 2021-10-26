@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
-from inflection import inflector
-from errors import custom_errors
+from .inflection import inflector
+from .errors import custom_errors
 from pathlib import Path
 import json
 import re
