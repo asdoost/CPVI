@@ -11,12 +11,12 @@ with open(os.path.join(HERE, "README.md")) as fid:
 # This call to setup() does all the work
 setup(
     name="CPVI",
-    version="v0.1.2-beta",
+    version="v0.1.3-beta",
     description="Comprehensive Persian Verb Inflector",
     long_description=README,
     long_description_content_type="text/markdown",
     url="https://github.com/asdoost/CPVI",
-    download_url = "https://github.com/asdoost/CPVI/archive/refs/tags/v0.1.2-beta.tar.gz",
+    download_url = "https://github.com/asdoost/CPVI/archive/refs/tags/v0.1.3-beta.tar.gz",
     author="Abbas Safardoost",
     author_email="a.safardoust@gmail.com",
     license="MIT",
