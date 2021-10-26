@@ -8187,5 +8187,53 @@
             "رَست",
             "رهید"],
           "paradigm": ""
-                  }
-                }
+                  },
+  "آراستن": {
+          "lexical aspect": "action",
+          "regularity": "irregular",
+          "transitivity": "transitive",
+          "present dual": false,
+          "past dual": true,
+          "formal IPA present stem": "ʔɒrɒ",
+          "formal IPA past stem": [
+            "ʔɒrɒst",
+            "ʔɒrɒʔid"],
+          "formal Persian present stem": "آرا",
+          "formal Persian past stem": [
+            "آراست",
+            "آرائید"],
+          "informal IPA present stem": "ʔɒrɒ",
+          "informal IPA past stem": [
+            "ʔɒrɒst",
+            "ʔɒrɒʔid"],
+          "informal Persian present stem": "آرا",
+          "informal Persian past stem": [
+            "آراست",
+            "آرائید"],
+          "paradigm": ""
+        },
+  "پیراستن": {
+          "lexical aspect": "action",
+          "regularity": "irregular",
+          "transitivity": "transitive",
+          "present dual": false,
+          "past dual": true,
+          "formal IPA present stem": "pirɒ",
+          "formal IPA past stem": [
+              "pirɒst",
+              "pirɒʔid"],
+          "formal Persian present stem": "پیرا",
+          "formal Persian past stem": [
+              "پیراست",
+              "پیرائید"],
+          "informal IPA present stem": "pirɒ",
+          "informal IPA past stem": [
+              "pirɒst",
+              "pirɒʔid"],
+          "informal Persian present stem": "پیرا",
+          "informal Persian past stem": [
+              "پیراست",
+              "پیرائید"],
+          "paradigm": ""
+        }
+    }
