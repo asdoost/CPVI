@@ -52,7 +52,7 @@ class CPVI():
         custom_errors(API_form, space)
 
         # get the directory path
-        dir_path = Path(__file__).parents[1]
+        dir_path = Path(__file__).parents[0]
         path = f'{dir_path}/data/irregulars.json'
 
         # open & load irregulars
