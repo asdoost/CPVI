@@ -12,6 +12,14 @@ CPVI (Comprehensive Persian Verb Inflector) is a Persian Verb Inflector. PVI use
 >>> pip install CPVI
 ```
 
+Or, from source:
+
+```
+git clone https://github.com/asdoost/CPVI.git
+cd CPVI
+pip install -e .
+```
+
 ## Usage
 
 `CPVI` class has only a `profiling`method.
