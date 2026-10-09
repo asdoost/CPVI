@@ -349,3 +349,23 @@ The space between words and affixes could be adjusted by passing either space, Z
 ```
 
 Passing strings other than space, ZWNJ (`\u200c`), or empty string raise `ValueError`.
+
+## Saving results as JSON
+
+Pass `save_to` to `profiling` to write the profile to a JSON file (it is still returned):
+
+```python
+>>> from CPVI import CPVI
+>>> profile = CPVI.profiling('گفت', 'ɟoft', save_to='out/goftan.json')
+```
+
+Or save a profile you already have, using the `CPVI.save` method (or `from CPVI import save_json`):
+
+```python
+>>> CPVI.save(profile, 'out/goftan.json', indent=2, ensure_ascii=False)
+PosixPath('out/goftan.json')
+```
+
+* Missing parent folders are created, an existing file is overwritten, and `.json` is added if the path has no suffix.
+* The file is UTF-8. By default Persian and IPA letters are written as-is (`ensure_ascii=False`); pass `ensure_ascii=True` for `\uXXXX` escapes.
+* `indent=None` writes compact JSON. The ZWNJ character is kept, so `json.load` returns exactly the dictionary that was saved.
